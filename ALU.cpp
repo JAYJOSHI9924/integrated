@@ -1,10 +1,4 @@
-// ALU.cpp
-// COA CO3: Illustrate processor level details about arithmetic operations
-// using computer arithmetic algorithms.
-// Maps to COA Lab Practical 01 (Design ALU using CPU simulator).
-//
-// Software model of an ALU: performs ADD/SUB/CMP on register values,
-// and sets Zero/Carry/Sign flags, in the style of the 80386 course.
+
 
 #include <iostream>
 using namespace std;
